@@ -1,0 +1,26 @@
+
+<style type="text/css">
+	h1{color: royalblue;font-size: xx-large;-large;font-style: italic;position: absolute;}
+	h1{text-align: center;}
+	p{color: black;font-size: large;} 
+	h3{color: royalblue;font-size:x-large; font-style: italic;}
+	body{background-color: lightblue; padding: 0;
+		margin: 0;}
+	#div7{color: black;font-style: x-large; font-style: oblique;}
+	#div8{border-style:solid;}
+	img{height: 400px; width:500px;}
+	nav{text-align:right;}
+	nav{position: fixed;}
+	form{padding: 15px;background-color: lightgoldenrodyellow;font-style: oblique;
+			border-style: solid;font-weight: 800px;height: 250px; width: 300px;}
+
+			input {type=button}
+				{color: black;background-color: rgb(0, 200, 0);
+					padding: 5px;}
+	#div2{position: static;}
+	input[type=button]:hover { border: solid; background-color: rgb(0, 220, 0);}
+	input[type=text]:hover{ background-color: rgb(0, 320, 0); }
+	#div19{text-align:center;}
+
+
+</style>
